@@ -1,0 +1,3 @@
+# Speech-Emotion-Recognition
+We aim to input audio files into our machine learning model and train it accordingly. After the training phase the model will be able to detect the emotion from the audio files. We have 8 predefined emotions(anger, fear, disgust, pleasant surprise, surprise, happy, sad). We used a deep learning technique (LSTM) to train our model.The features were extracted using mfcc technique(mel-frequency cepstrum coefficients). After using accuracy as a metric,and calculating the validation accuracy,we were able to produce pretty accurate results as our model has given 93.637%.
+
